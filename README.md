@@ -1,10 +1,9 @@
-Here's a simple README template for your food ordering website project:
 
 ---
 
-# BiteNow
+# [Bite Now](https://github.com/atanushil/Bite-Now.git)
 
-**BiteNow** is a food ordering platform that allows users to search for and order food from various outlets or restaurants. This project is currently in the initial setup phase, with a focus on creating the foundation for both the frontend and backend.
+**Bite Now** is a food ordering platform that allows users to search for and order food from various outlets or restaurants. This project is currently in the initial setup phase, with a focus on creating the foundation for both the frontend and backend.
 
 ## Project Structure
 
@@ -31,8 +30,8 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BiteNow.git
-   cd BiteNow
+   git clone https://github.com/atanushil/Bite-Now.git
+   cd Bite-Now
    ```
 
 2. **Install dependencies for the frontend:**
@@ -73,5 +72,3 @@ If you'd like to contribute, please fork the repository and use a feature branch
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize it further according to your specific needs or details about the project!
